@@ -12,8 +12,9 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ### UML
 
+</br>
 <p align="center">  
-  <img src="https://github.com/ricardiobraga/dio-java-intermediario-desafio-uml-iphone/tree/main/assets/uml.jpg" width="350" alt="UML do projeto">
+  <img src="/assets/uml.jpg" width="800" alt="UML do projeto">
 </p>
 
 
